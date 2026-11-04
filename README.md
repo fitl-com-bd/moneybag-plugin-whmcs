@@ -73,14 +73,14 @@ manually from the Moneybag merchant dashboard.
 ## Bundled SDK
 
 The `modules/gateways/moneybag/lib/` directory contains a self-contained build
-of the [Moneybag PHP SDK](https://github.com/Moneybag-SDK/moneybag-sdk-php)
+of the [Moneybag PHP SDK](https://github.com/fitl-com-bd/moneybag-sdk-php)
 (flat `MoneybagSdk_` class prefix, native cURL transport, no external
 dependencies) so the module works on any standard WHMCS host without Composer.
 
 ## Support
 
 - Documentation: https://docs.moneybag.com.bd
-- Issues: https://github.com/Moneybag-SDK/moneybag-plugin-whmcs/issues
+- Issues: https://github.com/fitl-com-bd/moneybag-plugin-whmcs/issues
 
 ## License
 

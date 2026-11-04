@@ -81,4 +81,4 @@ turn **Debug Logging** off, and run one small real transaction to confirm.
 ## Support
 
 - Docs: https://docs.moneybag.com.bd
-- Issues: https://github.com/Moneybag-SDK/moneybag-plugin-whmcs/issues
+- Issues: https://github.com/fitl-com-bd/moneybag-plugin-whmcs/issues
